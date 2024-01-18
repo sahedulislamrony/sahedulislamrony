@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### I am Sahed ✨
-- ⚡ I am Human 🛸
+
+**⚡ I am not a Robot 🤖** 
 
 <!--
-**sahed23/sahed23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
