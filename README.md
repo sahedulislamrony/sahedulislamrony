@@ -1,5 +1,6 @@
-### Hi there 👋
-### I am Sahed ✨
+# ✨ Sahedul Islam Rony
+
+**`Student/Programmer`**
 
 **⚡ I am not a Robot 🤖** 
 
