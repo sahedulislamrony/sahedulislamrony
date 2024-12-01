@@ -15,7 +15,7 @@
       ">
       Sahedul Islam Rony
 </span> -->
-Hi, I'm Sahedul Islam Rony 👋
+𝐇𝐢 , 𝐈 𝐒𝐚𝐡𝐞𝐝𝐮𝐥 𝐈𝐬𝐥𝐚𝐦 𝐑𝐨𝐧𝐲 👋
 </h1>
 <div style="display:grid;place-items:center;" align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Protest+Revolution&size=35&pause=1000&color=00CCFF&background=FF2E2500&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+Github+Profile+%E2%9C%A8" alt="Welcome to my github profile" />
@@ -35,7 +35,7 @@ style="text-align:center;border-bottom:1px solid #00ccff;" align="left">
       color: transparent;">
       About 
 </span> -->
-      💫 About
+      💫 𝐀𝐛𝐨𝐮𝐭
 </h2>
 
 I am a **CSE undergraduate** at [**Jashore University of Science and Technology**](https://just.edu.bd) with a passion for **web development**, **AI**, and **Machine learning**. As a **MERN Stack Developer**, I enjoy building innovative and impactful applications. I'm highly interested in mastering **advanced programming concepts** and exploring cutting-edge technologies to push the boundaries of innovation.
@@ -44,7 +44,7 @@ I am a **CSE undergraduate** at [**Jashore University of Science and Technology*
 <br/> 
 <h2
 style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;"
- align="left"> ⚡Tech Stack 
+ align="left"> ⚡𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 
 <!-- <span style="
       font-family: 'Arvo', serif;
       font-weight: 700;
@@ -80,7 +80,7 @@ style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;"
 <br/> 
 <h2
 style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;"
-align="left"> 🔭 Languages and Tools I'm interested in
+align="left"> 🔭 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐈'𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧
 <!-- <span style="
       font-family: 'Arvo', serif;
       font-weight: 700;
@@ -120,7 +120,7 @@ align="left"> 🔭 Languages and Tools I'm interested in
 <br/> 
 <h2
 style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;" align="left"
-> 🔥  My Github Activities
+> 🔥  𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
 <!-- <span style="
       font-family: 'Arvo', serif;
       font-weight: 700;
@@ -144,7 +144,7 @@ style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;" align
 
 <h2
 style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;" align="left"
-> 📞 Connect with me
+> 📞 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
 <!-- <span style="
       font-family: 'Arvo', serif;
       font-weight: 700;
