@@ -15,7 +15,7 @@
       ">
       Sahedul Islam Rony
 </span> -->
-𝐇𝐢 , 𝐈 𝐒𝐚𝐡𝐞𝐝𝐮𝐥 𝐈𝐬𝐥𝐚𝐦 𝐑𝐨𝐧𝐲 👋
+𝐇𝐢 , 𝐈 𝐚𝐦 𝐒𝐚𝐡𝐞𝐝𝐮𝐥 𝐈𝐬𝐥𝐚𝐦 𝐑𝐨𝐧𝐲 👋
 </h1>
 <div style="display:grid;place-items:center;" align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Protest+Revolution&size=35&pause=1000&color=00CCFF&background=FF2E2500&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+Github+Profile+%E2%9C%A8" alt="Welcome to my github profile" />
