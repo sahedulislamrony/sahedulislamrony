@@ -40,6 +40,7 @@ style="text-align:center;border-bottom:1px solid #00ccff;" align="left">
 
 I am a **CSE undergraduate** at [**Jashore University of Science and Technology**](https://just.edu.bd) with a passion for **web development**, **AI**, and **Machine learning**. As a **MERN Stack Developer**, I enjoy building innovative and impactful applications. I'm highly interested in mastering **advanced programming concepts** and exploring cutting-edge technologies to push the boundaries of innovation.
 
+[![](https://visitcount.itsvg.in/api?id=sahedulislamrony&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <br/> 
 <h2
@@ -175,5 +176,7 @@ style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;" align
 - 📄 Know about my experiences [**Resume**]()
 
 - ⚡ Fun fact 👉 **I am not a Robot 🤖**
-
 </div>
+<br/>
+
+
