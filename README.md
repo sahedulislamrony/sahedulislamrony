@@ -69,7 +69,7 @@ style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;"
 <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass" height="30" alt="sass logo"  />
 <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5" height="30" alt="sass logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-<img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
+<img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="git logo"  />
 <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="vercel logo"  />
