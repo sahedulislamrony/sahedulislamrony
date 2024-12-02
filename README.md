@@ -1,21 +1,5 @@
-
-<!-- <link rel="preconnect" href="https://fonts.googleapis.com"> -->
-<!-- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
-<!-- <link href="https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap" rel="stylesheet"> -->
-
-<h1 style="text-align:center;border-bottom:1px solid #00ccff;" align="center">
-<!-- <span style="
-      font-family: 'Arvo', serif;
-      font-weight: 700;
-      font-style: normal;
-      background-image: linear-gradient(to left, #9eb6c4,#9eb6c4, #00ccff);
-      background-clip: text;
-      color: transparent;
-      text-align:center;
-      ">
-      Sahedul Islam Rony
-</span> -->
-𝐇𝐢 , 𝐈 𝐚𝐦 𝐒𝐚𝐡𝐞𝐝𝐮𝐥 𝐈𝐬𝐥𝐚𝐦 𝐑𝐨𝐧𝐲 👋
+<h1 align="center">
+Hi, I'm Sahedul Islam Rony 👋
 </h1>
 <div style="display:grid;place-items:center;" align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Protest+Revolution&size=35&pause=1000&color=00CCFF&background=FF2E2500&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+Github+Profile+%E2%9C%A8" alt="Welcome to my github profile" />
@@ -23,40 +7,14 @@
 
 <br/> 
 
-<h2
-style="text-align:center;border-bottom:1px solid #00ccff;" align="left"> 
-<!-- 
-<span style="
-      font-family: 'Arvo', serif;
-      font-weight: 700;
-      font-style: normal;
-      background-image: linear-gradient(to left, #9eb6c4,#9eb6c4, #00ccff);
-      background-clip: text;
-      color: transparent;">
-      About 
-</span> -->
-      💫 𝐀𝐛𝐨𝐮𝐭
-</h2>
+<h2 align="left"> 💫 About</h2>
 
 I am a **CSE undergraduate** at [**Jashore University of Science and Technology**](https://just.edu.bd) with a passion for **web development**, **AI**, and **Machine learning**. As a **MERN Stack Developer**, I enjoy building innovative and impactful applications. I'm highly interested in mastering **advanced programming concepts** and exploring cutting-edge technologies to push the boundaries of innovation.
 
 [![](https://visitcount.itsvg.in/api?id=sahedulislamrony&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <br/> 
-<h2
-style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;"
- align="left"> ⚡𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 
-<!-- <span style="
-      font-family: 'Arvo', serif;
-      font-weight: 700;
-      font-style: normal;
-      background-image: linear-gradient(to left, #9eb6c4,#9eb6c4, #00ccff);
-      background-clip: text;
-      color: transparent;">
-      Tech Stack 
-</span> -->
-
-</h2>
+<h2 align="left"> ⚡Tech Stack </h2>
 
 <div align="left">
 
@@ -79,20 +37,7 @@ style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;"
 </div>
 
 <br/> 
-<h2
-style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;"
-align="left"> 🔭 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐈'𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧
-<!-- <span style="
-      font-family: 'Arvo', serif;
-      font-weight: 700;
-      font-style: normal;
-      background-image: linear-gradient(to left, #9eb6c4,#9eb6c4, #00ccff);
-      background-clip: text;
-      color: transparent;">
-      Languages and Tools I'm interested in
-</span> -->
-
-</h2>
+<h2 align="left"> 🔭 Languages and Tools I'm interested in</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
@@ -119,19 +64,7 @@ align="left"> 🔭 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨�
 </div>
 
 <br/> 
-<h2
-style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;" align="left"
-> 🔥  𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
-<!-- <span style="
-      font-family: 'Arvo', serif;
-      font-weight: 700;
-      font-style: normal;
-      background-image: linear-gradient(to left, #9eb6c4,#9eb6c4, #00ccff);
-      background-clip: text;
-      color: transparent;">
-     My Github Activities
-</span> -->
-</h2>
+<h2 align="left"> 🔥My Github Activities   </h2>
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahedulislamrony&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=false" height="240" alt="activity-graph graph"  />
 </div>
@@ -143,19 +76,7 @@ style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;" align
 
 <br/> 
 
-<h2
-style="text-align:center;border-bottom:1px solid #00ccff;margin-top:30px;" align="left"
-> 📞 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
-<!-- <span style="
-      font-family: 'Arvo', serif;
-      font-weight: 700;
-      font-style: normal;
-      background-image: linear-gradient(to left, #9eb6c4,#9eb6c4, #00ccff);
-      background-clip: text;
-      color: transparent;">
-     Connect with me
-</span> -->
-</h2>
+<h2 align="left"> 📞 Connect with me</h2>
 
 <div align="left">
   <a style="text-decoration:none;" href="https://linkedin.com/in/sahedulislamrony" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
