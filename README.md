@@ -9,7 +9,7 @@ Hi, I'm Sahedul Islam Rony 👋
 
 <h2 align="left"> 💫 About</h2>
 
-I am a **CSE undergraduate** with a passion for **web development**, **AI**, and **Machine learning**. As a **MERN Stack Developer**, I enjoy building innovative and impactful applications. I'm highly interested in mastering **advanced programming concepts** and exploring cutting-edge technologies to push the boundaries of innovation.
+I am a **CSE undergraduate** at [**Jashore University of Science and Technology**](https://just.edu.bd) with a passion for **web development**, **AI**, and **Machine learning**. As a **MERN Stack Developer**, I enjoy building innovative and impactful applications. I'm highly interested in mastering **advanced programming concepts** and exploring cutting-edge technologies to push the boundaries of innovation.
 
 [![](https://visitcount.itsvg.in/api?id=sahedulislamrony&icon=0&color=5)](https://visitcount.itsvg.in)
 
@@ -104,7 +104,7 @@ I am a **CSE undergraduate** with a passion for **web development**, **AI**, and
   </a>
   <img width="12">
  <a style="text-decoration:none;" href="https://x.com/i_am_sahed" > 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="25"  />
+<img src="https://skillicons.dev/icons?i=twitter" height="30" alt="gmail logo"  /></a>
 </a>
 <img width="12">
  <a style="text-decoration:none;" href="mailto:sahedul.dev@gmail.com" >
