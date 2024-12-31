@@ -32,6 +32,9 @@ I am a **CSE undergraduate** at [**Jashore University of Science and Technology*
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
 <img width="12" />
+
+<br />
+<br/> 
 <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
@@ -42,6 +45,9 @@ I am a **CSE undergraduate** at [**Jashore University of Science and Technology*
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
 <img width="12" />
+
+<br />
+<br/> 
 <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
