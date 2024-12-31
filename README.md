@@ -92,7 +92,7 @@ I am a **CSE undergraduate** at [**Jashore University of Science and Technology*
 
 <div align="left">
 
-<img src="github_wrapped_2024.png" width="1200">
+<img src="2024/github_wrapped_2024.png" width="1200">
 
 </div>
 
