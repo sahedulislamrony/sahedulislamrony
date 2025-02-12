@@ -1,8 +1,10 @@
 <h1 align="center">
 Hi, I'm Sahedul Islam Rony 👋
 </h1>
-<div style="display:grid;place-items:center;" align="center">
-
+<div  align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=700&size=50&pause=1000&center=true&vCenter=true&repeat=false&width=1200&height=100&lines=Welcome+to+my+github+profile+%E2%9C%A8" alt="Welcome to my github profile ✨" />
+</div>
+<!--    -->
 <h2 align="left"> 💫 About </h2>
 
 I am a **CSE undergraduate** at [**Jashore University of Science and Technology**](https://just.edu.bd) with a passion for **web development**, **AI**, and **Machine learning**. As a **MERN Stack Developer**, I enjoy building innovative and impactful applications. I'm highly interested in mastering **advanced programming concepts** and exploring cutting-edge technologies to push the boundaries of innovation.
