@@ -3,13 +3,10 @@ Hi, I'm Sahedul Islam Rony 👋
 </h1>
 <div style="display:grid;place-items:center;" align="center">
 
-<h2 align="left"> 💫 About</h2>
+<h2 align="left"> 💫 About </h2>
 
 I am a **CSE undergraduate** at [**Jashore University of Science and Technology**](https://just.edu.bd) with a passion for **web development**, **AI**, and **Machine learning**. As a **MERN Stack Developer**, I enjoy building innovative and impactful applications. I'm highly interested in mastering **advanced programming concepts** and exploring cutting-edge technologies to push the boundaries of innovation.
 
-[![](https://visitcount.itsvg.in/api?id=sahedulislamrony&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<br/>
 <h2 align="left"> ⚡Tech Stack </h2>
 
 <div align="left">
