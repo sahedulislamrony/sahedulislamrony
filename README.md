@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Niconne&size=60&pause=0000&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=90&lines=Hi%2C+I'm+Sahedul+Islam+Rony+%F0%9F%91%8B" alt="Hi, I'm Sahedul Islam Rony 👋" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Niconne&size=60&pause=0000&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=90&lines=Hi%2C+I'm+Sahedul+Islam+Rony+%E2%9C%A8" alt="Hi, I'm Sahedul Islam Rony ✨" />
 
   
 <!-- <div  align="center"> -->
@@ -7,7 +7,7 @@
 <!--    -->
 <h2 align="left"> 💫 About </h2>
 
-I am a **CSE undergraduate** at [**Jashore University of Science and Technology**](https://just.edu.bd) with a passion for **web development**, **AI**, and **Machine learning**. As a **MERN Stack Developer**, I enjoy building innovative and impactful applications. I'm highly interested in mastering **advanced programming concepts** and exploring cutting-edge technologies to push the boundaries of innovation.
+I am a **CSE undergraduate** at **Jashore University of Science and Technology -** [**JUST**](https://just.edu.bd) with a passion for **Software Development**, **Artificial Intelligence** , and **Machine learning**. I enjoy building innovative and impactful applications. I'm highly interested in mastering **advanced programming concepts** and exploring cutting-edge technologies to push the boundaries of innovation.
 
 <h2 align="left"> ⚡Tech Stack </h2>
 
