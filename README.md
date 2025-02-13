@@ -1,9 +1,9 @@
-<h1 align="center">
-Hi, I'm Sahedul Islam Rony 👋
-</h1>
-<div  align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=700&size=50&pause=1000&center=true&vCenter=true&repeat=false&width=1200&height=100&lines=Welcome+to+my+github+profile+%E2%9C%A8" alt="Welcome to my github profile ✨" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Niconne&size=60&pause=0000&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=90&lines=Hi%2C+I'm+Sahedul+Islam+Rony+%F0%9F%91%8B" alt="Hi, I'm Sahedul Islam Rony 👋" />
+
+  
+<!-- <div  align="center"> -->
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=700&size=50&pause=1000&center=true&vCenter=true&repeat=false&width=1200&height=100&lines=Welcome+to+my+github+profile+%E2%9C%A8" alt="Welcome to my github profile ✨" />
+</div> -->
 <!--    -->
 <h2 align="left"> 💫 About </h2>
 
