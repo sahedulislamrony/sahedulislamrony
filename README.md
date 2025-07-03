@@ -83,7 +83,7 @@ I am a **CSE undergraduate** at **Jashore University of Science and Technology -
 </div>
 
 <br/>
-<h2 align="left"> 🔥My Github Activities  in 2024 </h2>
+<!-- <h2 align="left"> 🔥My Github Activities  in 2024 </h2>
 
 <div align="left">
 
@@ -91,7 +91,7 @@ I am a **CSE undergraduate** at **Jashore University of Science and Technology -
 
 </div>
 
-<br/>
+<br/> -->
 
 <h2 align="left">  Connect with me</h2>
 
