@@ -1,9 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Niconne&size=60&pause=0000&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=90&lines=Hi%2C+I'm+Sahedul+Islam+Rony+%E2%9C%A8" alt="Hi, I'm Sahedul Islam Rony ✨" />
 
-  
-<!-- <div  align="center"> -->
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=700&size=50&pause=1000&center=true&vCenter=true&repeat=false&width=1200&height=100&lines=Welcome+to+my+github+profile+%E2%9C%A8" alt="Welcome to my github profile ✨" />
-</div> -->
 <h2 align="left"> 💫 About </h2>
 
 I am a **CSE undergraduate** at **Jashore University of Science and Technology -** [**JUST**](https://just.edu.bd) with a passion for **Software Development**, **Artificial Intelligence** , and **Machine learning**. I enjoy building innovative and impactful applications. I'm highly interested in mastering **advanced programming concepts** and exploring cutting-edge technologies to push the boundaries of innovation.
@@ -82,15 +78,6 @@ I am a **CSE undergraduate** at **Jashore University of Science and Technology -
 </div>
 
 <br/>
-<!-- <h2 align="left"> 🔥My Github Activities  in 2024 </h2>  -->
-
-<!-- <div align="left">  -->
-
-<!-- <img src="2024/github.png" width="1200">  -->
-
-<!-- </div>  -->
-
-<!-- <br/> -->
 
 <h2 align="left">  Connect with me</h2>
 
@@ -106,15 +93,9 @@ I am a **CSE undergraduate** at **Jashore University of Science and Technology -
 <br/>
 <div align="left" >
 
-- 🌱 I’m currently learning **Node.js , C#**
 
-- 💬 Ask me about **NEXT.js , JavaScript, React**
+- Email: **<cast.sahedul@gmail.com>**
 
-- 📫 How to reach me **<cast.sahedul@gmail.com>**
-
-- 📄 Know about my experiences [**Resume**](resources/Resume.pdf)
-
-- ⚡ Fun fact 👉 **I am not a Robot 🤖**
 
 </div>
 <br/>
