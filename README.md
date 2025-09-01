@@ -1,4 +1,4 @@
-# [💖 Sahedul Islam Rony](https://github.com/sahedulislamrony)
+# [💫 Sahedul Islam Rony](https://github.com/sahedulislamrony)
 
 **Full Stack Developer | CSE Undergraduate** <br />
 **Jashore University of Science and Technology (JUST)**  
