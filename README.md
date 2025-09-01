@@ -13,7 +13,8 @@
 - 🌍 **Impact-Driven Development:** Solutions that address real-world challenges  
 
 ### Current Focus
-- 💻 Full-stack development with **Next.js & Express.js**  
+- 💻 Full-stack development with **Next.js & Express.js**
+- ⚡ **AI Integration** on Web & App
 - 🗄️ Databases: **MongoDB & PostgreSQL**  
 - 🤖 Learning and building with **AI/Agents**  
 
