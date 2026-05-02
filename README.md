@@ -23,4 +23,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript) ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js) ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql) ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)  
 
 
-📫 **Professional Inquiry:** **cast.sahedul@gmail.com**  
+📫 **Professional Inquiry:** **hello@sahedul.dev**  
