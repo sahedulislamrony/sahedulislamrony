@@ -1,4 +1,4 @@
-# [🦉 Sahedul Islam Rony 🦋](https://github.com/sahedulislamrony)
+# [Sahedul Islam Rony 🦋](https://github.com/sahedulislamrony)
 
 **Software Engineer | SaaS & AI Systems**  
 
